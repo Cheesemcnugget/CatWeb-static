@@ -1,8 +1,51 @@
+African
+American
+Arab
+Asian
+Bible
+British
+Canadian
+CatWeb
+Catholic
+Chessboard
+Chinese
+Christian
+Christmas
+Congress
+Democrat
+English
+European
+French
+German
+HumanCat222
+Indian
+Internet
+Iraqi
+Irish
+Islamic
+Israeli
+Italian
+Japanese
+Jew
+Jewish
+L4nd3n
+Latin
+Mexican
+Muslim
+Olympic
+Palestinian
+Republican
+Russian
+Senate
+Soviet
+Spanish
+Supreme
+Tobias
+United
 abandon
 ability
 able
 abortion
-alpha
 about
 above
 abroad
@@ -63,7 +106,6 @@ affair
 affect
 afford
 afraid
-African
 after
 afternoon
 again
@@ -89,6 +131,7 @@ ally
 almost
 alone
 along
+alpha
 already
 also
 alter
@@ -96,7 +139,6 @@ alternative
 although
 always
 amazing
-American
 among
 amount
 analysis
@@ -138,7 +180,6 @@ appropriate
 approval
 approve
 approximately
-Arab
 architect
 area
 argue
@@ -155,7 +196,6 @@ arrive
 article
 artist
 artistic
-Asian
 aside
 asleep
 aspect
@@ -252,7 +292,6 @@ best
 better
 between
 beyond
-Bible
 bike
 bill
 billion
@@ -309,7 +348,6 @@ briefly
 bright
 brilliant
 bring
-British
 broad
 broken
 brother
@@ -338,7 +376,6 @@ camera
 camp
 campaign
 campus
-Canadian
 cancer
 candidate
 capability
@@ -360,7 +397,6 @@ cash
 cast
 catch
 category
-Catholic
 cause
 ceiling
 celebrate
@@ -403,16 +439,12 @@ chicken
 chief
 child
 childhood
-Chinese
 chip
 chocolate
 choice
 cholesterol
 choose
-Christian
-Christmas
 church
-Chessboard
 cigarette
 circle
 circumstance
@@ -464,7 +496,6 @@ column
 combination
 combine
 come
-CatWeb
 comedy
 comfort
 comfortable
@@ -516,7 +547,6 @@ confirm
 conflict
 confront
 confusion
-Congress
 congressional
 connect
 connection
@@ -648,6 +678,7 @@ decision
 deck
 declare
 decline
+decode
 decrease
 deep
 deeply
@@ -667,7 +698,6 @@ deliver
 delivery
 demand
 democracy
-Democrat
 democratic
 demonstrate
 demonstration
@@ -844,7 +874,6 @@ engage
 engine
 engineer
 engineering
-English
 enhance
 enjoy
 enormous
@@ -875,7 +904,6 @@ estate
 estimate
 ethics
 ethnic
-European
 evaluate
 evaluation
 even
@@ -1045,7 +1073,6 @@ framework
 free
 freedom
 freeze
-French
 frequency
 frequent
 frequently
@@ -1073,6 +1100,7 @@ gain
 galaxy
 gallery
 game
+games
 gang
 garage
 garden
@@ -1090,7 +1118,6 @@ generation
 genetic
 gentleman
 gently
-German
 gesture
 ghost
 giant
@@ -1179,7 +1206,6 @@ here
 heritage
 hero
 herself
-HumanCat222
 hide
 high
 highlight
@@ -1267,7 +1293,6 @@ indeed
 independence
 independent
 index
-Indian
 indicate
 indication
 individual
@@ -1312,7 +1337,6 @@ interested
 interesting
 internal
 international
-Internet
 interpret
 interpretation
 intervention
@@ -1331,21 +1355,13 @@ invite
 involve
 involved
 involvement
-Iraqi
-Irish
 iron
-Islamic
 island
-Israeli
 issue
-Italian
 item
 itself
 jacket
 jail
-Japanese
-Jew
-Jewish
 join
 joint
 joke
@@ -1389,7 +1405,6 @@ largely
 last
 late
 later
-Latin
 latter
 laugh
 launch
@@ -1398,7 +1413,6 @@ lawsuit
 lawyer
 layer
 lead
-L4nd3n
 leader
 leadership
 leading
@@ -1533,7 +1547,6 @@ message
 metal
 meter
 method
-Mexican
 middle
 might
 military
@@ -1589,7 +1602,6 @@ museum
 music
 musical
 musician
-Muslim
 must
 mutual
 myself
@@ -1655,7 +1667,6 @@ objective
 obligation
 observation
 observe
-ohio
 observer
 obtain
 obvious
@@ -1674,8 +1685,8 @@ office
 officer
 official
 often
+ohio
 okay
-Olympic
 once
 ongoing
 onion
@@ -1730,7 +1741,6 @@ painter
 painting
 pair
 pale
-Palestinian
 palm
 panel
 pant
@@ -2062,7 +2072,6 @@ reporter
 represent
 representation
 representative
-Republican
 reputation
 request
 require
@@ -2127,7 +2136,6 @@ rule
 running
 rural
 rush
-Russian
 sacred
 safe
 safety
@@ -2159,7 +2167,6 @@ scholarship
 school
 science
 scientific
-sigma
 scientist
 scope
 score
@@ -2185,7 +2192,6 @@ select
 selection
 self
 sell
-Senate
 senator
 send
 senior
@@ -2241,6 +2247,7 @@ sick
 side
 sigh
 sight
+sigma
 sign
 signal
 significance
@@ -2311,9 +2318,7 @@ soup
 source
 south
 southern
-Soviet
 space
-Spanish
 speak
 speaker
 special
@@ -2390,6 +2395,7 @@ structure
 struggle
 student
 studio
+studiocompile
 study
 stuff
 stupid
@@ -2420,7 +2426,6 @@ support
 supporter
 suppose
 supposed
-Supreme
 sure
 surely
 surface
@@ -2529,7 +2534,6 @@ throw
 thus
 ticket
 tight
-Tobias
 time
 tiny
 tire
@@ -2616,7 +2620,6 @@ uniform
 union
 unique
 unit
-United
 universal
 universe
 university
@@ -2783,5 +2786,5 @@ your
 yours
 yourself
 youth
-zone
 zebra
+zone
