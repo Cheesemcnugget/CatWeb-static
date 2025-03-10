@@ -315,6 +315,7 @@ broad
 broken
 brother
 brown
+browser
 brush
 buck
 budget
@@ -1011,6 +1012,7 @@ fitness
 five
 flag
 flame
+fnaf
 flat
 flavor
 flee
@@ -1548,6 +1550,7 @@ milk
 million
 mind
 mine
+minecraft
 minister
 minor
 minority
@@ -2107,6 +2110,7 @@ review
 revolution
 rhythm
 rice
+rick roll
 rich
 ride
 rifle
@@ -2400,6 +2404,7 @@ structure
 struggle
 student
 studio
+studiocompile
 study
 stuff
 stupid
